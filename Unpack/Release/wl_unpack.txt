@@ -1,0 +1,7 @@
+-*-   WL Unpack 1.0   *   Copyright (c) Gazlan 2014   -*-
+
+Wordlist unpacker
+
+Usage: wl_unpack.com Dix.pak
+
+complains_n_suggestions direct to gazlan@yandex.ru

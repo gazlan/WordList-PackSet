@@ -1,0 +1,7 @@
+-*-   WL Pack 1.0   *   Copyright (c) Gazlan 2014   -*-
+
+Wordlist packer
+
+Usage: wl_pack.com Dix.txt
+
+complains_n_suggestions direct to gazlan@yandex.ru
